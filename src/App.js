@@ -161,22 +161,23 @@ class App extends Component {
             </div>
 
             <div className="grey lighten-5 card flex-column">
-              <div className="padding20 card orange lighten-1 white-text nomargin">
-                <h5>{this.state.titles.playlist}</h5>
+              <div className="padding20 card wappuradio-bg lighten-1 white-text nomargin">
+                <a href="https://www.turunwappuradio.com/"><img src={wappuradio} alt="turunwappuradio.com" width="135" height="90"></img></a>
+                <h5>Wappuradio</h5>
               </div>
-              <iframe className="playlist" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1166189585%3Aplaylist%3A4N42jOH9c5ZEg17tCrtauc" height="380"></iframe>
+              <audio controls crossOrigin className="playlist">
+                <source src="//stream.turunwappuradio.com/wappuradio.mp3" type="audio/mpeg"></source>
+              </audio>
+              <div className="margin20">
+                <a href="https://www.turunwappuradio.com/">https://turunwappuradio.com/</a>
+              </div>
             </div>
 
             <div className="grey lighten-5 card flex-column">
               <div className="padding20 card orange lighten-1 white-text nomargin">
-                <a href="https://wappuradio.fi/"><img src={wappuradio} width="135" height="90"></img></a>
+                <h5>{this.state.titles.playlist}</h5>
               </div>
-              <audio controls crossOrigin className="playlist">
-                <source src="//stream.wappuradio.fi/wappuradio.mp3" type="audio/mpeg"></source>
-              </audio>
-              <div className="margin20">
-                <a href="https://wappuradio.fi/">https://wappuradio.fi/</a>
-              </div>
+              <iframe className="playlist" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1166189585%3Aplaylist%3A4N42jOH9c5ZEg17tCrtauc" height="380"></iframe>
             </div>
 
             <div className="grey lighten-5 card flex-column">
