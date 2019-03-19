@@ -3,7 +3,7 @@ export default {
           {
             "aika": new Date(2019, 3, 17, 20),
             "nimi": "Wappulehden julkistus - Agora",
-            "kuvaus": "Kevään varmin merkki, Wappulehti Pilde&Napander, on taas täällä viihdyttämässä kansaa! Tuo Turun teekkareiden kaunis kätten jälki, Pilde & Napander, julkaistaan ja ilotulitukset välkkyvät ja rummut soittavat ja kuohuviini virtaa ja kaikilla on hauskaa. Silmät kirkkaina ja mieli raukeana päästään avaamaan vuoden 2018 P&N ja nauramaan aina yhtä innostavalle ja suvaitsevalle teekkarihuumorille. #vitsihuumoria.",
+            "kuvaus": "Kevään varmin merkki, Wappulehti Pilde&Napander, on taas täällä viihdyttämässä kansaa! Tuo Turun teekkareiden kaunis kätten jälki, Pilde & Napander, julkaistaan ja ilotulitukset välkkyvät ja rummut soittavat ja kuohuviini virtaa ja kaikilla on hauskaa. Silmät kirkkaina ja mieli raukeana päästään avaamaan vuoden 2019 P&N ja nauramaan aina yhtä innostavalle ja suvaitsevalle teekkarihuumorille. #vitsihuumoria.",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.455659,+22.285654&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.455659,+22.285654"
           },
           {
@@ -57,7 +57,7 @@ export default {
           {
             "aika": new Date(2019, 3, 23, 16),
             "nimi": "Jallunkierros (37) - Lähtö Proffan Kellarista",
-            "kuvaus": "Kevät, Wappu ja Jallunkierros! On jälleen aika kiertää paikallisia baareja Jallun, tuon juomakunnan jalon peuran, kunniaksi! Jallunkierros 2018 on Kolmeseiska ry:n järjestämä, jo perinnebakkanaalien ovea kolkutteleva, baarikierros.",
+            "kuvaus": "Kevät, Wappu ja Jallunkierros! On jälleen aika kiertää paikallisia baareja Jallun, tuon juomakunnan jalon peuran, kunniaksi! Jallunkierros 2019 on Kolmeseiska ry:n järjestämä, jo perinnebakkanaalien ovea kolkutteleva, baarikierros.",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Proffan+Kellari&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CProffan+Kellari"
           },
           {
@@ -109,31 +109,31 @@ export default {
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454567,+22.287194&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454567,+22.287194"
           },
           {
-            "aika": new Date(2018, 3, 29, 12),
+            "aika": new Date(2019, 3, 29, 12),
             "nimi": "Eldprowet - Axelia",
             "kuvaus": "Huom! Tapahtuma on vain teekkarifukseille. Tulikoe on suoritettava jokaisen fuksin, joka teekkarilakin halajaa päähän Wapppuna painaa. Perinteisesti Eldprowetissa ********** **********ssa kun joukkueet ********** ja ********** kunnes ********** rankasti. Kilpailun jokaista teekkarikokelasta ********** ********** ainakin kolmesti ja ********** ********** märkää. ********** ********** ********** räntäsade. ********** ********** kilpailun voittajalle **********, muille **********. Luvassa ehdottomasti fuksivuoden muistiinpainumattomin päivä, jonka päätteeksi ********** ********** **********.",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.455108,+22.281236&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.455108,+22.281236"
           },
           {
-            "aika": new Date(2018, 3, 30, 14),
+            "aika": new Date(2019, 3, 30, 14),
             "nimi": "Wappuaatto ja lakitus - Yliopistonmäki",
             "kuvaus": "Wappuaaton auringonnousu kruunaa koko kolmeviikkoisen juhlan. Tämä tietää rohkeille ja vahvoille fukseille ilon ja onnen päivää, kun kaiken sen darran päälle päähänsä saa painaa ikioman, vielä valkoisen teekkarilakin. Tilaisuudessa siirrytään myös taidemuseonmäelle seuraamaan vähempiarvoisten kuolevaisten, ylioppilaiden, tavallisten ylioppilaslakkien päähän laittamista.",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454672,+22.284435&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454672,+22.284435"
           },
           {
-            "aika": new Date(2018, 3, 30, 19),
+            "aika": new Date(2019, 3, 30, 19),
             "nimi": "Paavo Nurmen patsaan lakitus",
             "kuvaus": "<p>Kutsumme kaikki tekniikan koulutuksesta ja teekkariudesta kiinnostuneet paikalle juhlistamaan wappua ja Paavo Nurmen patsaan merkityksellisyyttä valtakunnallisessa teekkarikulttuurissa. Paavo Nurmen patsas on yksi teekkarijäynäämisen symboli ja tämän johdosta Turussa on uniikki mahdollisuus luoda hieno perinne turkulaisille teekkareille, diplomi-insinööreille ja tekniikan akateemisille!</p><p>Lakituksessa mukana Tekniikan Akateemiset TEK, FITech, Vaadin ja Sofokus.</p>",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.448009,+22.270176&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.448009,+22.270176"
           },
           {
-            "aika": new Date(2018, 4, 1, 0),
+            "aika": new Date(2019, 4, 1, 0),
             "nimi": "Ikuisen teekkarin hauta - Yliopistonmäki",
             "kuvaus": "Wappuyönä kokoonnumme muistelemaan ikuista teekkaria ja nostamme oluttynnörin hänen haudalleen.",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.456071,+22.285517&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.456071,+22.285517"
           },
           {
-            "aika": new Date(2018, 4, 1, 12),
+            "aika": new Date(2019, 4, 1, 12),
             "nimi": "TYYn vappupiknik - Vartiovuorenmäki",
             "kuvaus": "TYY järjestää perinteisen vappupiknikin Vartiovuorenmäellä, jossa on enemmän tai vähemmän tapahtumaa ja pahaa oloa. Tähän päättyy Wapun taika ja tätä seuraa vain kesä ja aurinko ja darra ja loputon rahavirta...",
             "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.448326,+22.276958&zoom=16&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.448326,+22.276958"
@@ -143,7 +143,7 @@ export default {
       {
         "aika": new Date(2019, 3, 17, 20),
         "nimi": "Wappulehden julkistus - Agora",
-        "kuvaus": "Kevään varmin merkki, Wappulehti Pilde&Napander, on taas täällä viihdyttämässä kansaa! Tuo Turun teekkareiden kaunis kätten jälki, Pilde & Napander, julkaistaan ja ilotulitukset välkkyvät ja rummut soittavat ja kuohuviini virtaa ja kaikilla on hauskaa. Silmät kirkkaina ja mieli raukeana päästään avaamaan vuoden 2018 P&N ja nauramaan aina yhtä innostavalle ja suvaitsevalle teekkarihuumorille. #vitsihuumoria.",
+        "kuvaus": "Kevään varmin merkki, Wappulehti Pilde&Napander, on taas täällä viihdyttämässä kansaa! Tuo Turun teekkareiden kaunis kätten jälki, Pilde & Napander, julkaistaan ja ilotulitukset välkkyvät ja rummut soittavat ja kuohuviini virtaa ja kaikilla on hauskaa. Silmät kirkkaina ja mieli raukeana päästään avaamaan vuoden 2019 P&N ja nauramaan aina yhtä innostavalle ja suvaitsevalle teekkarihuumorille. #vitsihuumoria.",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.455659,+22.285654&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.455659,+22.285654"
       },
       {
@@ -197,7 +197,7 @@ export default {
       {
         "aika": new Date(2019, 3, 23, 16),
         "nimi": "Jallunkierros (37) - Lähtö Proffan Kellarista",
-        "kuvaus": "Kevät, Wappu ja Jallunkierros! On jälleen aika kiertää paikallisia baareja Jallun, tuon juomakunnan jalon peuran, kunniaksi! Jallunkierros 2018 on Kolmeseiska ry:n järjestämä, jo perinnebakkanaalien ovea kolkutteleva, baarikierros.",
+        "kuvaus": "Kevät, Wappu ja Jallunkierros! On jälleen aika kiertää paikallisia baareja Jallun, tuon juomakunnan jalon peuran, kunniaksi! Jallunkierros 2019 on Kolmeseiska ry:n järjestämä, jo perinnebakkanaalien ovea kolkutteleva, baarikierros.",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Proffan+Kellari&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CProffan+Kellari"
       },
       {
@@ -249,31 +249,31 @@ export default {
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454567,+22.287194&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454567,+22.287194"
       },
       {
-        "aika": new Date(2018, 3, 29, 12),
+        "aika": new Date(2019, 3, 29, 12),
         "nimi": "Eldprowet - Axelia",
         "kuvaus": "Huom! Tapahtuma on vain teekkarifukseille. Tulikoe on suoritettava jokaisen fuksin, joka teekkarilakin halajaa päähän Wapppuna painaa. Perinteisesti Eldprowetissa ********** **********ssa kun joukkueet ********** ja ********** kunnes ********** rankasti. Kilpailun jokaista teekkarikokelasta ********** ********** ainakin kolmesti ja ********** ********** märkää. ********** ********** ********** räntäsade. ********** ********** kilpailun voittajalle **********, muille **********. Luvassa ehdottomasti fuksivuoden muistiinpainumattomin päivä, jonka päätteeksi ********** ********** **********.",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.455108,+22.281236&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.455108,+22.281236"
       },
       {
-        "aika": new Date(2018, 3, 30, 14),
+        "aika": new Date(2019, 3, 30, 14),
         "nimi": "Wappuaatto ja lakitus - Yliopistonmäki",
         "kuvaus": "Wappuaaton auringonnousu kruunaa koko kolmeviikkoisen juhlan. Tämä tietää rohkeille ja vahvoille fukseille ilon ja onnen päivää, kun kaiken sen darran päälle päähänsä saa painaa ikioman, vielä valkoisen teekkarilakin. Tilaisuudessa siirrytään myös taidemuseonmäelle seuraamaan vähempiarvoisten kuolevaisten, ylioppilaiden, tavallisten ylioppilaslakkien päähän laittamista.",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454672,+22.284435&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454672,+22.284435"
       },
       {
-        "aika": new Date(2018, 3, 30, 19),
+        "aika": new Date(2019, 3, 30, 19),
         "nimi": "Paavo Nurmen patsaan lakitus",
         "kuvaus": "<p>Kutsumme kaikki tekniikan koulutuksesta ja teekkariudesta kiinnostuneet paikalle juhlistamaan wappua ja Paavo Nurmen patsaan merkityksellisyyttä valtakunnallisessa teekkarikulttuurissa. Paavo Nurmen patsas on yksi teekkarijäynäämisen symboli ja tämän johdosta Turussa on uniikki mahdollisuus luoda hieno perinne turkulaisille teekkareille, diplomi-insinööreille ja tekniikan akateemisille!</p><p>Lakituksessa mukana Tekniikan Akateemiset TEK, FITech, Vaadin ja Sofokus.</p>",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.448009,+22.270176&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.448009,+22.270176"
       },
       {
-        "aika": new Date(2018, 4, 1, 0),
+        "aika": new Date(2019, 4, 1, 0),
         "nimi": "Ikuisen teekkarin hauta - Yliopistonmäki",
         "kuvaus": "Wappuyönä kokoonnumme muistelemaan ikuista teekkaria ja nostamme oluttynnörin hänen haudalleen.",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.456071,+22.285517&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.456071,+22.285517"
       },
       {
-        "aika": new Date(2018, 4, 1, 12),
+        "aika": new Date(2019, 4, 1, 12),
         "nimi": "TYYn vappupiknik - Vartiovuorenmäki",
         "kuvaus": "TYY järjestää perinteisen vappupiknikin Vartiovuorenmäellä, jossa on enemmän tai vähemmän tapahtumaa ja pahaa oloa. Tähän päättyy Wapun taika ja tätä seuraa vain kesä ja aurinko ja darra ja loputon rahavirta...",
         "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.448326,+22.276958&zoom=16&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.448326,+22.276958"
