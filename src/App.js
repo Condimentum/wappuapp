@@ -114,7 +114,7 @@ class App extends Component {
         </div>
         <div className="row">
           <div className="padding20 col s12 m12 l8">
-          <ResponsiveEmbed src='https://www.youtube.com/embed/Kdf850xiZzc' allowFullScreen />
+          <ResponsiveEmbed src='https://youtu.be/RJ9E6zQFzCM' allowFullScreen />
             <div className="grey lighten-5 card flex-column margintop1">
               <div className="padding20 card orange lighten-1 white-text nomargin">
                 <h5>{this.state.titles.upcoming}</h5>
@@ -177,7 +177,7 @@ class App extends Component {
               <div className="padding20 card orange lighten-1 white-text nomargin">
                 <h5>{this.state.titles.playlist}</h5>
               </div>
-              <iframe className="playlist" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1166189585%3Aplaylist%3A4N42jOH9c5ZEg17tCrtauc" height="380"></iframe>
+              <iframe className="playlist" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1166189585%3Aplaylist%3A3WzLQQSWeUiJZm39bMA4MW" height="380"></iframe>
             </div>
 
             <div className="grey lighten-5 card flex-column">
