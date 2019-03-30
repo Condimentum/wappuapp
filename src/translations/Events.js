@@ -1,9 +1,15 @@
 export default {
   fi: [
         {
+          "aika": new Date(2019, 3, 17, 18),
+          "nimi": "Vappusitsit (Hybridi) - Kirkkotie",
+          "kuvaus": 'Hybridi järjestää ennen illan kemuja perinteiset Vappusitsinsä. <a href="https://digit.fi/ilmo/11" target="_blank">Ilmoittautumiseen</a>',
+          "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Kirkkotie+19,+20540+Turku&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CKirkkotie+19,+20540+Turku"
+        },
+        {
           "aika": new Date(2019, 3, 17, 22),
-          "nimi": "Wapunaloitusbileet - Vegas ja Hybridin Vappusitsit - Kirkkotie",
-          "kuvaus": "Virallisesti Wapun starttaa Wapunaloitusbileet ja Wappurauhan julistus. Hybridi järjestää ennen illan kemuja perinteiset Vappusitsinsä. <a href="https://digit.fi/ilmo/11" target="_blank">Ilmoittautumiseen</a>",
+          "nimi": "Wapunaloitusbileet - Vegas",
+          "kuvaus": 'Virallisesti Wapun starttaa Wapunaloitusbileet ja Wappurauhan julistus.',
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=vegas+turku&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7Cvegas+turku"
         },
         {
@@ -123,9 +129,15 @@ export default {
   ],
   en: [
     {
+      "aika": new Date(2019, 3, 17, 18),
+      "nimi": "Vappu Sitz (Hybridi) - Kirkkotie",
+      "kuvaus": 'Hybridi organizes their legendary Vappu Sits as a pre-party possibility for Wappu opening party. <a href="https://digit.fi/ilmo/11" target="_blank">Registration</a>',
+      "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Kirkkotie+19,+20540+Turku&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CKirkkotie+19,+20540+Turku"
+    },
+    {
       "aika": new Date(2019, 3, 17, 22),
       "nimi": "Wappu opening party - Vegas and Hybridi Vappu Sitz - Kirkkotie",
-      "kuvaus": "Wappu officially begins with Wappustart party and the declaration of Wappu peace. Hybridi organizes their legendary Vappu Sits as a pre-party possibility. <a href="https://digit.fi/ilmo/11" target="_blank">Registration</a>",
+      "kuvaus": 'Wappu officially begins with Wappustart party and the declaration of Wappu peace.',
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=vegas+turku&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7Cvegas+turku"
     },
     {
