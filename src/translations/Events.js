@@ -2,8 +2,8 @@ export default {
   fi: [
         {
           "aika": new Date(2019, 3, 17, 22),
-          "nimi": "Wapunaloitusbileet - Vegas",
-          "kuvaus": "Virallisesti Wapun starttaa Wapunaloitusbileet ja Wappurauhan julistus.",
+          "nimi": "Wapunaloitusbileet - Vegas ja Hybridin Vappusitsit - Kirkkotie",
+          "kuvaus": "Virallisesti Wapun starttaa Wapunaloitusbileet ja Wappurauhan julistus. Hybridi järjestää ennen illan kemuja perinteiset Vappusitsinsä. <a href="https://digit.fi/ilmo/11" target="_blank">Ilmoittautumiseen</a>",
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=vegas+turku&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7Cvegas+turku"
         },
         {
@@ -33,7 +33,7 @@ export default {
         {
           "aika": new Date(2019, 3, 22, 14),
           "nimi": "Urheilupäivä - Kupittaankenttä",
-          "kuvaus": "Jotta wappu ei menisi aivan juomingeiksi, järjestetään Kupittaalla urheilupäivä wapun ja pääsiäisen ratoksi. Ohjelmassa jalkapalloa, lacrossea ja kaupunkilipunryöstöä.",
+          "kuvaus": "Jotta wappu ei menisi aivan juomingeiksi, järjestetään Kupittaalla urheilupäivä wapun ja pääsiäisen ratoksi. Ohjelmassa muun muassa jalkapalloa ja kaupunkilipunryöstöä.",
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.446596,+22.285036&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.446596,+22.285036"
         },
         {
@@ -68,7 +68,7 @@ export default {
         },
         {
           "aika": new Date(2019, 3, 26, 18),
-          "nimi": "Preldprowet - Q-talo",
+          "nimi": "PREldproWET - Q-talo",
           "kuvaus": "Perjantaina päästään mittelemään teekkarin neliottelussa ja viettämään aikaa yliopistojen välisessä porukassa. Paikalla on myös grilli ja saunapalju, joten OPM ( P ∈ [Grillattavaa, Kehonkuivausväline, Juoma] ). Tapahtumassa esitetään vuoden 2019 Turun paikallisten jäynäkisojen osallistujat ja julkistetaan jäynäkisojen voittaja.",
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Q-talo&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CQ-talo"
         },
@@ -124,8 +124,8 @@ export default {
   en: [
     {
       "aika": new Date(2019, 3, 17, 22),
-      "nimi": "Wappu opening party - Vegas",
-      "kuvaus": "Wappu officially begins with Wappustart party and the declaration of Wappu peace.",
+      "nimi": "Wappu opening party - Vegas and Hybridi Vappu Sitz - Kirkkotie",
+      "kuvaus": "Wappu officially begins with Wappustart party and the declaration of Wappu peace. Hybridi organizes their legendary Vappu Sits as a pre-party possibility. <a href="https://digit.fi/ilmo/11" target="_blank">Registration</a>",
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=vegas+turku&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7Cvegas+turku"
     },
     {
@@ -155,7 +155,7 @@ export default {
     {
       "aika": new Date(2019, 3, 22, 14),
       "nimi": "Sports day - Kupittaa",
-      "kuvaus": "If you don’t want to drink your way through wappu, you might enjoy this sports day. There is going to be football, Lacrosse and Capture the Flag.",
+      "kuvaus": "If you don’t want to drink your way through wappu, you might enjoy this sports day. There is going to be football and Capture the Flag.",
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.446596,+22.285036&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.446596,+22.285036"
     },
     {
@@ -190,8 +190,8 @@ export default {
     },
     {
       "aika": new Date(2019, 3, 26, 18),
-      "nimi": "Preldprowet - Q-talo (Q-house)",
-      "kuvaus": "Preldprowet consists of a lot of fun with University of Turku and Åbo Akademi’s tech students. There’s possibility to connect with wider group of people and race in tech student’s quathlon. There’s also a bbq and sauna+bath (bring your own sausages, beers, towels, etc!) During the night the entries for Turku’s local jäynäcontest will be revealed and among those, the winners will be rewarded.",
+      "nimi": "PREldproWET - Q-talo (Q-house)",
+      "kuvaus": "PREldproWET consists of a lot of fun with University of Turku and Åbo Akademi’s tech students. There’s possibility to connect with wider group of people and race in tech student’s quathlon. There’s also a bbq and sauna+bath (bring your own sausages, beers, towels, etc!) During the night the entries for Turku’s local jäynäcontest will be revealed and among those, the winners will be rewarded.",
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Q-talo&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CQ-talo"
     },
     {
