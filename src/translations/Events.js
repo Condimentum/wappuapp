@@ -33,7 +33,7 @@ export default {
         {
           "aika": new Date(2019, 3, 22, 14),
           "nimi": "Urheilupäivä - Kupittaankenttä",
-          "kuvaus": "Jotta wappu ei menisi aivan juomingeiksi, järjestetään Kupittaalla urheilupäivä wapun ja pääsiäisen ratoksi. Ohjelmassa on muun muassa jalkapalloa ja kaupunkilipunryöstöä.",
+          "kuvaus": "Jotta wappu ei menisi aivan juomingeiksi, järjestetään Kupittaalla urheilupäivä wapun ja pääsiäisen ratoksi. Ohjelmassa jalkapalloa, lacrossea ja kaupunkilipunryöstöä.",
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.446596,+22.285036&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.446596,+22.285036"
         },
         {
@@ -155,7 +155,7 @@ export default {
     {
       "aika": new Date(2019, 3, 22, 14),
       "nimi": "Sports day - Kupittaa",
-      "kuvaus": "If you don’t want to drink your way through wappu, you might enjoy this sports day. There is going to be football and Capture the Flag.",
+      "kuvaus": "If you don’t want to drink your way through wappu, you might enjoy this sports day. There is going to be football, Lacrosse and Capture the Flag.",
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.446596,+22.285036&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.446596,+22.285036"
     },
     {
