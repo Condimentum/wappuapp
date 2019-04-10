@@ -51,7 +51,7 @@ export default {
         {
           "aika": new Date(2019, 3, 23, 16),
           "nimi": "Jallunkierros (37) - Lähtö Proffan Kellarista",
-          "kuvaus": "Kevät, Wappu ja Jallunkierros! On jälleen aika kiertää paikallisia baareja Jallun, tuon juomakunnan jalon peuran, kunniaksi! Jallunkierros 2019 on Kolmeseiska ry:n järjestämä, jo perinnebakkanaalien ovea kolkutteleva, baarikierros. Kierrokselta voi sujuvasti jatkaa Marilyniin Hybridin ja Indexin <a href="https://www.facebook.com/events/280555862883896" target="_blank">Kahden tähden bileisiin</a>",
+          "kuvaus": 'Kevät, Wappu ja Jallunkierros! On jälleen aika kiertää paikallisia baareja Jallun, tuon juomakunnan jalon peuran, kunniaksi! Jallunkierros 2019 on Kolmeseiska ry:n järjestämä, jo perinnebakkanaalien ovea kolkutteleva, baarikierros. Kierrokselta voi sujuvasti jatkaa Marilyniin Hybridin ja Indexin <a href="https://www.facebook.com/events/280555862883896" target="_blank">Kahden tähden bileisiin</a>',
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Proffan+Kellari&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CProffan+Kellari"
         },
         {
@@ -69,7 +69,7 @@ export default {
         {
           "aika": new Date(2019, 3, 25, 19),
           "nimi": "Power Hour - TYYn sauna",
-          "kuvaus": "Rankan urheilusuorituksen jälkeen on hyvä huolehtia nesteytyksestä ja sehän onnistuu TYYn saunalla Power hourin merkeissä! Tämän jälkeen ei varmasti enää tarvitse ihmetellä, onko nestetasapaino kohdallaan vai ei. Toki mikäli nestetasapaino sattuu menemään ylikunnon puolelle, sitä pääsee tasoittelemaan myös saunan puolelle. Powerhour toimii myös erinomaisena vätköilymahdollisuutena ennen <a href="https://www.facebook.com/events/325871468280919" target="_blank">Hybridin Vappustarttia</a>!",
+          "kuvaus": 'Rankan urheilusuorituksen jälkeen on hyvä huolehtia nesteytyksestä ja sehän onnistuu TYYn saunalla Power hourin merkeissä! Tämän jälkeen ei varmasti enää tarvitse ihmetellä, onko nestetasapaino kohdallaan vai ei. Toki mikäli nestetasapaino sattuu menemään ylikunnon puolelle, sitä pääsee tasoittelemaan myös saunan puolelle. Powerhour toimii myös erinomaisena vätköilymahdollisuutena ennen <a href="https://www.facebook.com/events/325871468280919" target="_blank">Hybridin Vappustarttia</a>!',
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454567,+22.287194&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454567,+22.287194"
         },
         {
@@ -81,7 +81,7 @@ export default {
         {
           "aika": new Date(2019, 3, 27, 9),
           "nimi": "Aamusitsit - Q-talo",
-          "kuvaus": "<p>Tule sellaisena kuin heräät! Aamu alkaa akateemisella pöytäjuhlalla, joka on nostattava Wappumielen uudelleen jo aamuwarhain. <a href="https://digit.fi/ilmo/16" target="_blank">Ilmoittautumiseen</a></p><p>Juhlamieli säilykööt läpi päivän, sillä noin klo 18 - heti sitsien päätyttyä - päästään suoraan jatkamaan Wappurännibileissä samoissa tiloissa. Huikeeta!</p>",
+          "kuvaus": '<p>Tule sellaisena kuin heräät! Aamu alkaa akateemisella pöytäjuhlalla, joka on nostattava Wappumielen uudelleen jo aamuwarhain. <a href="https://digit.fi/ilmo/16" target="_blank">Ilmoittautumiseen</a></p><p>Juhlamieli säilykööt läpi päivän, sillä noin klo 18 - heti sitsien päätyttyä - päästään suoraan jatkamaan Wappurännibileissä samoissa tiloissa. Huikeeta!</p>',
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Q-talo&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CQ-talo"
         },
         {
@@ -179,7 +179,7 @@ export default {
     {
       "aika": new Date(2019, 3, 23, 16),
       "nimi": "Jallu-go-around pub crawl - Proffan kellari",
-      "kuvaus": "This pub crawl goes around the best bars in Turku. You can try out many different drinks made of Finnish traditional spirit Jaloviina. Buy tickets ahead. After the go-around one can smootly transit to Marilyn for Hybridi and Index's <a href="https://www.facebook.com/events/280555862883896" target="_blank">Kahden tähden bileet</a>",
+      "kuvaus": 'This pub crawl goes around the best bars in Turku. You can try out many different drinks made of Finnish traditional spirit Jaloviina. Buy tickets ahead. After the go-around one can smootly transit to Marilyn for Hybridi and Index\'s <a href="https://www.facebook.com/events/280555862883896" target="_blank">Kahden tähden bileet</a>',
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Proffan+Kellari&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CProffan+Kellari"
     },
     {
@@ -197,7 +197,7 @@ export default {
     {
       "aika": new Date(2019, 3, 25, 20),
       "nimi": "Power Hour - TYY sauna",
-      "kuvaus": "After a long day of exercising, it’s important to look after your fluid balance. One way to make sure you’re hydrated is Power hour at TYY sauna! If you’re feeling a bit too hydrated after the hour, you can sweat the excess off in sauna afterwards. The power hour is also a perfect transition state for <a href="https://www.facebook.com/events/325871468280919" target="_blank">Hybridi's Vappustartti</a>!",
+      "kuvaus": 'After a long day of exercising, it’s important to look after your fluid balance. One way to make sure you’re hydrated is Power hour at TYY sauna! If you’re feeling a bit too hydrated after the hour, you can sweat the excess off in sauna afterwards. The power hour is also a perfect transition state for <a href="https://www.facebook.com/events/325871468280919" target="_blank">Hybridi\'s Vappustartti</a>!',
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454567,+22.287194&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454567,+22.287194"
     },
     {
@@ -209,7 +209,7 @@ export default {
     {
       "aika": new Date(2019, 3, 27, 9),
       "nimi": "Morning sittning - Q-talo (Q-house)",
-      "kuvaus": "Sittnings: <a href=\"https://en.wikipedia.org/wiki/Sittning\">https://en.wikipedia.org/wiki/Sittning</a> <br> Come as you wake up! The morning starts with academic sittning party and wakes you up for a good Wappu mood early in the morning! <a href="https://digit.fi/ilmo/11" target="_blank">Registration</a> The mood remains through the day because after the sittning, around 18 o'clock, the party continues with Launder party!",
+      "kuvaus": 'Sittnings: <a href="https://en.wikipedia.org/wiki/Sittning">https://en.wikipedia.org/wiki/Sittning</a> <br> Come as you wake up! The morning starts with academic sittning party and wakes you up for a good Wappu mood early in the morning! <a href="https://digit.fi/ilmo/11" target="_blank">Registration</a> The mood remains through the day because after the sittning, around 18 o\'clock, the party continues with Launder party!',
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Q-talo&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CQ-talo"
     },
     {
