@@ -111,7 +111,7 @@ export default {
         {
           "aika": new Date(2019, 3, 30, 19),
           "nimi": "Paavo Nurmen patsaan lakitus",
-          "kuvaus": "<p>Kutsumme kaikki tekniikan koulutuksesta ja teekkariudesta kiinnostuneet paikalle juhlistamaan wappua ja Paavo Nurmen patsaan merkityksellisyyttä valtakunnallisessa teekkarikulttuurissa. Paavo Nurmen patsas on yksi teekkarijäynäämisen symboli ja tämän johdosta Turussa on uniikki mahdollisuus luoda hieno perinne turkulaisille teekkareille, diplomi-insinööreille ja tekniikan akateemisille!</p><p>Lakituksessa mukana Tekniikan Akateemiset TEK, FITech, Vaadin ja Sofokus.</p>",
+          "kuvaus": "<p>Kutsumme kaikki tekniikan koulutuksesta ja teekkariudesta kiinnostuneet paikalle juhlistamaan wappua ja Paavo Nurmen patsaan merkityksellisyyttä valtakunnallisessa teekkarikulttuurissa. Paavo Nurmen patsas on yksi teekkarijäynäämisen symboli ja tämän johdosta Turussa on uniikki mahdollisuus luoda hieno perinne turkulaisille teekkareille, diplomi-insinööreille ja tekniikan akateemisille!</p>",
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.448009,+22.270176&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.448009,+22.270176"
         },
         {
