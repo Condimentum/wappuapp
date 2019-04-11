@@ -177,7 +177,7 @@ class App extends Component {
               <div className="padding20 card orange lighten-1 white-text nomargin">
                 <h5>{this.state.titles.playlist}</h5>
               </div>
-              <iframe className="playlist" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1166189585%3Aplaylist%3A3WzLQQSWeUiJZm39bMA4MW" height="380"></iframe>
+              <iframe className="playlist" src="https://embed.spotify.com/?uri=spotify%3Auser%3A1166189585%3Aplaylist%3A6YrbbeAsg9bd818pkWZxer" height="380"></iframe>
             </div>
 
             <div className="grey lighten-5 card flex-column">
