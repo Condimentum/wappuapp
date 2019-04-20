@@ -73,7 +73,7 @@ export default {
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454567,+22.287194&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454567,+22.287194"
         },
         {
-          "aika": new Date(2019, 3, 26, 19),
+          "aika": new Date(2019, 3, 26, 18),
           "nimi": "PREldproWET - Q-talo",
           "kuvaus": "Perjantaina päästään mittelemään teekkarin neliottelussa ja viettämään aikaa yliopistojen välisessä porukassa. Paikalla on myös grilli ja saunapalju, joten OPM ( P ∈ [Grillattavaa, Kehonkuivausväline, Juoma] ). Tapahtumassa esitetään vuoden 2019 Turun paikallisten jäynäkisojen osallistujat ja julkistetaan jäynäkisojen ja kiltismestaruuden voittajat.",
           "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Q-talo&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CQ-talo"
@@ -201,7 +201,7 @@ export default {
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=60.454567,+22.287194&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C60.454567,+22.287194"
     },
     {
-      "aika": new Date(2019, 3, 26, 19),
+      "aika": new Date(2019, 3, 26, 18),
       "nimi": "PREldproWET - Q-talo (Q-house)",
       "kuvaus": "PREldproWET consists of a lot of fun with University of Turku and Åbo Akademi’s tech students. There’s possibility to connect with wider group of people and race in tech student’s quathlon. There’s also a bbq and sauna+bath (bring your own sausages, beers, towels, etc!) During the night the entries for Turku’s local jäynäcontest will be revealed and among those, the winners will be rewarded.",
       "kartta": "https://maps.googleapis.com/maps/api/staticmap?center=Q-talo&zoom=17&scale=false&size=600x600&maptype=roadmap&key=AIzaSyCWrM7xzlmZHgQro8cGpxJp-VM__2oNpME&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7CQ-talo"
